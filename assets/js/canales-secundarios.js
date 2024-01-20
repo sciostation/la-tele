@@ -769,11 +769,11 @@ https://webtvca.autoplayout.com/hls/0/stream.m3u8
 https://stmv2.zcasthn.com.br/escuchame/escuchame/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="radio" radio="true",Science and Technology
 http://stream.zeno.fm/gjgmji2u0gauv.m3u
-#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/SaxumStation.png" group-title="radio" radio="true",Station Saxum
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/SaxumStation.png" group-title="radio" radio="true",Station Saxum
 http://stream.zeno.fm/x4cuyhegckyvv.m3u
-#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="radio" radio="true",Station Natio
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="radio" radio="true",Station Natio
 http://stream.zeno.fm/mfny1d4okmjuv.m3u
-#EXTINF:-1 radio="true" tvg-id="Radio" tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="radio" radio="true",Station scio clasic
+#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="radio" radio="true",Station scio clasic
 http://stream.zeno.fm/gdxbkpcpjnrvv.m3u
 #EXTINF:-1 tvg-id="1480" tvg-name="Fortaleza Radio" tvg-logo="https://i2.paste.pics/1f09fb712957263bd30cc502ce6b9670.png", Fortaleza Radio | CL
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
