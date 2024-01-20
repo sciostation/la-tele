@@ -767,14 +767,6 @@ https://vdochile.com:3168/hybrid/play.m3u8
 https://webtvca.autoplayout.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="173" tvg-name="Escuchame Radio" tvg-logo="https://lh3.googleusercontent.com/-eQd-W5mPTuw/YDwxJZOsNSI/AAAAAAABAcs/0mAPdTthnzsqYh3wSG0soki-xF-As78UQCK8BGAsYHg/s512/2021-02-28.png", Escuchame Radio | CL
 https://stmv2.zcasthn.com.br/escuchame/escuchame/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/logos.png" group-title="radio" radio="true",Science and Technology
-http://stream.zeno.fm/gjgmji2u0gauv.m3u
-#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/SaxumStation.png" group-title="radio" radio="true",Station Saxum
-http://stream.zeno.fm/x4cuyhegckyvv.m3u
-#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="radio" radio="true",Station Natio
-http://stream.zeno.fm/mfny1d4okmjuv.m3u
-#EXTINF:-1 tvg-logo="https://github.com/sciostation/radios/blob/main/img/station.png" group-title="radio" radio="true",Station scio clasic
-http://stream.zeno.fm/gdxbkpcpjnrvv.m3u
 #EXTINF:-1 tvg-id="1480" tvg-name="Fortaleza Radio" tvg-logo="https://i2.paste.pics/1f09fb712957263bd30cc502ce6b9670.png", Fortaleza Radio | CL
 https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8
 #EXTINF:-1 tvg-id="1479" tvg-name="Fortaleza TV" tvg-logo="https://i2.paste.pics/34c6e0cc1a8eccd67342a70fb2281c7c.png", Fortaleza TV | CL
