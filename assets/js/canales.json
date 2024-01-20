@@ -314,11 +314,11 @@
         "fuente": "https://www.romantica.cl/romantica-tv/",
         "pais": "cl"
     },
-    "radio-genial": {
-        "nombre": "📻 Radio Genial 100.5 FM",
-        "m3u8_url": "https://v2.tustreaming.cl/genialtv/index.m3u8",
-        "fuente": "https://radiogenial.cl/",
-        "pais": "cl"
+    "saxum-station": {
+        "nombre": "📻 saxum station rock music",
+        "m3u8_url": "http://stream.zeno.fm/x4cuyhegckyvv.m3u",
+        "fuente": "https://sciostation.github.io/saxum.html",
+        "pais": "co"
     },
     "mi-radio-es-mas": {
         "nombre": "📻 Mi Radio es Más",
