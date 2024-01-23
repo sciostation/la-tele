@@ -17,9 +17,9 @@
         "pais": "cl"
     },
     "natio-station-tv": {
-        "nombre": "24 horas 4",
-        "iframe_url": "https://sciostation.github.io/tvnatio.html",
-        "fuente": "https://sciostation.github.io/tvnatio.html",
+        "nombre": "natio video tv ",
+        "iframe_url": "https://sciostation.github.io/natiovideo.tv.html",
+        "fuente": "https://sciostation.github.io/natiotv.html",
         "pais": "cl"
     },
     "24-horas-5": {
