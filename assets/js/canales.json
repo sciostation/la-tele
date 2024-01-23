@@ -4,10 +4,10 @@
         "yt_id": "UCTXNz3gjAypWp3EhlIATEJQ",
         "pais": "cl"
     },
-    "caracol-ahora": {
-        "nombre": "caracol ahora",
-        "yt_id": "4gnvFkfej9Y",
-        "fuente": "https://www.caracoltv.com/",
+    "canal-institucional": {
+        "nombre": "canal institucional",
+         "m3u8_url": "https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8",
+        "fuente": "https://www.canalinstitucional.tv/",
         "pais": "cl"
     },
     "senal-colombia": {
