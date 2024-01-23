@@ -16,10 +16,10 @@
         "fuente": "https://www.senalcolombia.tv/",
         "pais": "cl"
     },
-    "24-horas-4": {
+    "natio-station-tv": {
         "nombre": "24 horas 4",
-        "iframe_url": "https://player.twitch.tv/?channel=24horas_tvn&parent=alplox.github.io",
-        "fuente": "https://www.twitch.tv/24horas_tvn",
+        "iframe_url": "https://sciostation.github.io/tvnatio.html",
+        "fuente": "https://sciostation.github.io/tvnatio.html",
         "pais": "cl"
     },
     "24-horas-5": {
