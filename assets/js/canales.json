@@ -94,10 +94,9 @@
         "m3u8_url": "https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8",
         "pais": "cl"
     },
-    "t13-3": {
-        "nombre": "T13 3",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/t13/t13.smil/playlist.m3u8",
-        "fuente": "https://www.t13.cl/",
+    "cartoonnetwork": {
+        "nombre": "cartoon net work",
+        "m3u8_url": "https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8",
         "pais": "cl"
     },
     "t13-4": {
