@@ -68,22 +68,20 @@
         "fuente": "https://tvretropalmares.com/",
         "pais": "cl"
     },
-    "meganoticias-3": {
-        "nombre": "Meganoticias 3",
-        "m3u8_url": "https://mdstrm.com/live-stream/561430ae330428c223687e1e?autoplay=true&volume=0",
-        "fuente": "https://www.meganoticias.cl/senal-en-vivo/meganoticias/",
+    "picapiedra": {
+        "nombre": "picapiedra",
+        "m3u8_url": "https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8",
         "pais": "cl"
     },
-    "mega": {
-        "nombre": "Mega",
-        "m3u8_url": "https://marine2.miplay.cl/mega/index.m3u8",
-        "fuente": "https://www.mega.cl/",
+    "acsnet-work": {
+        "nombre": "acsnet work",
+        "m3u8_url": "https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/playlist.m3u8",
+        "fuente": "https://www.acsnetwork.tv/programacion/",
         "pais": "cl"
     },
-    "mega-2": {
-        "nombre": "Mega 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8",
-        "fuente": "https://www.mega.cl/",
+    "tom-jerry": {
+        "nombre": "tom & jerry",
+        "m3u8_url": "https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8",
         "pais": "cl"
     },
     "t13": {
