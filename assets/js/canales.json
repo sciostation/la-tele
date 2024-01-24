@@ -34,7 +34,7 @@
         "fuente": "https://canalvisiondorada.com.co/",
         "pais": "cl"
     },
-    "caracila-tv": {
+    "caracola-tv": {
         "nombre": "caracola tv",
         "m3u8_url": "https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8",
         "fuente": "https://www.caracolatv.cl/",
@@ -46,14 +46,14 @@
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
-    "tvn": {
-        "nombre": "TVN",
-        "yt_id": "UCaVaCaiG6qRzDiJDuEGKOhQ",
+    "cinesur": {
+        "nombre": "cine sur",
+        "m3u8_url": "https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8",
         "pais": "cl"
     },
-    "tvn-2": {
-        "nombre": "TVN 2",
-        "m3u8_url": "https://mdstrm.com/live-stream-playlist-v/555c9a91eb4886825b07ee7b.m3u8",
+    "sony-tv": {
+        "nombre": "cine sony",
+        "m3u8_url": "https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8",
         "fuente": "https://www.24horas.cl/envivo/",
         "pais": "cl"
     },
