@@ -89,10 +89,9 @@
          "m3u8_url": "https://6362ca6f1fc28.streamlock.net:443/cinecartoon/cinecartoon/playlist.m3u8",
         "pais": "cl"
     },
-    "t13-2": {
-        "nombre": "T13 2",
-        "iframe_url": "https://player.twitch.tv/?channel=t13envivo&parent=alplox.github.io",
-        "fuente": "https://www.twitch.tv/t13envivo",
+    "chavo-tv": {
+        "nombre": "el chavo del 8",
+        "m3u8_url": "https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8",
         "pais": "cl"
     },
     "t13-3": {
