@@ -28,9 +28,9 @@
         "fuente": "https://sciostation.github.io/saxumtv.html",
         "pais": "cl"
     },
-    "Todo-noticias": {
-        "nombre": "todo noticias",
-        "yt_id": "UULFjp9TvKJywaeOLa22YIOy7A",
+    "willax-tv": {
+        "nombre": " Willax Televisión",
+          "m3u8_url": "http://191.97.60.193:10000/play/a02j/index.m3u8",
         "fuente": "https://tn.com.ar/",
         "pais": "cl"
     },
