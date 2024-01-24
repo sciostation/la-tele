@@ -22,10 +22,10 @@
         "fuente": "https://sciostation.github.io/natiotv.html",
         "pais": "cl"
     },
-    "24-horas-5": {
-        "nombre": "24 horas 5",
-        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&volume=0",
-        "fuente": "https://www.24horas.cl/envivo/",
+    "saxum-station-tv": {
+        "nombre": "saxum station tv",
+        "iframe_url": "https://sciostation.github.io/saxumvideo.tv.html",
+        "fuente": "https://sciostation.github.io/saxumtv.html",
         "pais": "cl"
     },
     "24-horas-6": {
