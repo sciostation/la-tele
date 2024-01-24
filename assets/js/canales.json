@@ -28,10 +28,10 @@
         "fuente": "https://sciostation.github.io/saxumtv.html",
         "pais": "cl"
     },
-    "24-horas-6": {
-        "nombre": "24 horas 6",
-        "iframe_url": "https://mdstrm.com/live-stream/57d1a22064f5d85712b20dab?jsapi=true&autoplay=true&controls=true&volume=0&mute=true&player=57f4e28f9c53768535d65782&access_token=&custom.preroll=&custom.overlay=",
-        "fuente": "https://www.24horas.cl/envivo/",
+    "Todo-noticias": {
+        "nombre": "todo noticias",
+        "yt_id": "cb12KmMMDJA",
+        "fuente": "https://tn.com.ar/",
         "pais": "cl"
     },
     "24-horas-s2": {
