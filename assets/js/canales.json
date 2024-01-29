@@ -307,15 +307,14 @@
         "yt_id": "UCFxHplbcoJK9m70c4VyTIxg",
         "pais": "cl"
     },
-    "radio-la-clave": {
-        "nombre": "📻 Radio La Clave",
-        "iframe_url": "https://rudo.video/live/laclavetv?volume=0&mute=1",
-        "fuente": "https://radiolaclave.cl/",
+    "france-24": {
+        "nombre": "france 24",
+        "yt_id": "UCUdOoVWuWmgo1wByzcsyKDQ",
         "pais": "cl"
     },
-    "radio-folclor-chile": {
-        "nombre": "📻 Radio Folclor de Chile",
-        "yt_id": "UC0Hl8kJe8Xwv8g63Q4qefQg",
+    "caricaturas": {
+        "nombre": "seamos niños",
+        "yt_id": "UCuVJdjuKwyBfOO8fA-Qrbag",
         "pais": "cl"
     },
     "radio-maria-chile": {
