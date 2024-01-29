@@ -99,10 +99,9 @@
         "m3u8_url": "https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8",
         "pais": "cl"
     },
-    "cine-accion": {
-        "nombre": "cine accion",
-        "m3u8_url": "https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8",
-        "fuente": "https://www.t13.cl/",
+    "estrellas-mx": {
+        "nombre": "ESTRELLAS MX",
+        "m3u8_url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8",
         "pais": "cl"
     },
     "t13-5": {
