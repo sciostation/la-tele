@@ -104,10 +104,9 @@
         "m3u8_url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8",
         "pais": "cl"
     },
-    "cinema-tv": {
-        "nombre": "cinema tv",
-        "iframe_url": "https://sciostation.github.io/StackTV/",
-        "fuente": "https://sciostation.github.io",
+    "ultra-tv": {
+        "nombre": "Ultra TV Puebla ",
+        "m3u8_url": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",
         "pais": "cl"
     },
     "canal-5": {
@@ -120,10 +119,9 @@
         "m3u8_url": "https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8",
         "pais": "cl"
     },
-    "canal-13-3": {
-        "nombre": "Canal 13 3",
-        "iframe_url": "https://ainmcl.github.io/MonitorTV/Monitores/Senal/WEB/Se%C3%B1alCANAL13_IFRAME.html",
-        "fuente": "https://www.13.cl/en-vivo",
+    "adrenalina": {
+        "nombre": "ADRENALINA",
+        "m3u8_url": "https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8",
         "pais": "cl"
     },
     "cnn-cl": {
@@ -136,9 +134,9 @@
         "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
         "pais": "cl"
     },
-    "chv-noticias-2": {
-        "nombre": "CHV Noticias 2",
-        "m3u8_url": "https://siloh-latam-aka.plutotv.net/lilo/production/Chilevision/master.m3u8",
+    "banda-max": {
+        "nombre": "BANDAMAX",
+        "m3u8_url": "https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8",
         "fuente": "https://pluto.tv/es/live-tv/chilevision-noticias",
         "pais": "cl"
     },
