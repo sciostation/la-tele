@@ -119,14 +119,14 @@
         "m3u8_url": "https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8",
         "pais": "cl"
     },
-    "adrenalina": {
-        "nombre": "ADRENALINA",
-        "m3u8_url": "https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8",
+    "nicoya-tv": {
+        "nombre": "Nicoya TV",
+        "m3u8_url": "https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
-    "transmedia": {
-        "nombre": "UNaM Transmedia",
-        "m3u8_url": "http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL",
+    "colosal": {
+        "nombre": "colosal",
+        "m3u8_url": "https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/playlist.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
     "tele-mix": {
