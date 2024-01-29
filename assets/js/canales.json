@@ -219,9 +219,9 @@
         "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "curre-tv": {
-        "nombre": "curre tv",
-        "m3u8_url": "http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?PlaylistM3UCL",
+    "Discovery-Turbo": {
+        "nombre": "Discovery Turbo",
+        "m3u8_url": "http://livex.pop-app.live/s4n/poplive/ch556/playlist.m3u8",
         "pais": "cl"
     },
     "multimedia": {
