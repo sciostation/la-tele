@@ -219,9 +219,9 @@
         "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "natio-tv": {
-        "nombre": "natio tv",
-        "m3u8_url": "https://raw.githubusercontent.com/sciostation/tv/main/natiostationtv.m3u",
+    "curre-tv": {
+        "nombre": "curre tv",
+        "m3u8_url": "http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
     "multimedia": {
