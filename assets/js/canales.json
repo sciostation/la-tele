@@ -140,10 +140,9 @@
         "fuente": "https://pluto.tv/es/live-tv/chilevision-noticias",
         "pais": "cl"
     },
-    "chv-noticias-3": {
-        "nombre": "CHV Noticias 3",
-        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist.m3u8?DVR",
-        "fuente": "https://www.chvnoticias.cl/senal-online/",
+    "cb": {
+        "nombre": "Coto Brus TV",
+        "m3u8_url": "https://cloudvideo.servers10.com:8081/8030/index.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
     "chv-noticias-4": {
