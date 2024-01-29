@@ -275,9 +275,9 @@
         "m3u8_url": "https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
-    "canal-tv": {
-        "nombre": "canal TV",
-        "m3u8_url": "https://i.mjh.nz/PlutoTV/63eb9255c111bc0008fe6ec4-alt.m3u8",
+    "tn": {
+        "nombre": "TN EN VIVO",
+        "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
         "pais": "cl"
     },
     "alegria-tv-2": {
