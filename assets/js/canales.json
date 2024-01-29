@@ -202,21 +202,21 @@
         "fuente": "https://xtrematv.com/",
         "pais": "cl"
     },
-    "adn-2": {
-        "nombre": "📻 ADN 2",
-        "yt_id": "UCczkrFICr0xEgDsk51zZojA",
+    "extrema-animal": {
+        "nombre": "extrema animal",
+        "iframe_url":  "https://xtrematv.com/?p=1504",
         "pais": "cl"
     },
-    "adn-3": {
-        "nombre": "📻 ADN 3",
-        "m3u8_url": "https://unlimited1-us.dps.live/adntv/adntv.smil/playlist.m3u8",
-        "fuente": "http://tv.adnradio.cl/",
+    "tele-clasica": {
+        "nombre": "tele clasica",
+        "iframe_url": "https://xtrematv.com/?p=2181",
+        "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "adn-4": {
-        "nombre": "📻 ADN 4",
-        "m3u8_url": "https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8",
-        "fuente": "http://tv.adnradio.cl/",
+    "comedy-tv": {
+        "nombre": "comedy tv",
+        "iframe_url": "https://xtrematv.com/?p=2558",
+        "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
     "adn-5": {
