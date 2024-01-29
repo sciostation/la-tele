@@ -267,10 +267,10 @@
         "fuente": "https://www.carolina.cl/tv/",
         "pais": "cl"
     },
-    "fm-tiempo": {
-        "nombre": "📻 FM Tiempo",
-        "iframe_url": "https://rudo.video/live/fmtiempotv?volume=0&mute=1",
-        "fuente": "https://www.fmtiempo.cl/",
+    "kids-tv": {
+        "nombre": "kids",
+        "iframe_url": "https://xtrematv.com/?p=2300",
+        "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
     "fm-tiempo-2": {
