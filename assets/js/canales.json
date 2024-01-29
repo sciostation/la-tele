@@ -129,9 +129,9 @@
         "m3u8_url": "https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8",
         "pais": "cl"
     },
-    "chv-noticias": {
-        "nombre": "CHV Noticias",
-        "yt_id": "UCRsUoZYC1ULUspipMRnMhwg",
+    "tele-mix": {
+        "nombre": "Tele Mix",
+        "m3u8_url":  "https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
     "banda-max": {
