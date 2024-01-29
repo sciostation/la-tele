@@ -290,15 +290,14 @@
         "yt_id": "UCTQrUTmzCWIfG6h4EVCdOCQ",
         "pais": "cl"
     },
-    "dw": {
-        "nombre": " DW Español ",
-         "yt_id": "UCT4Jg8h03dD0iN3Pb5L0PMA",
+    "america": {
+        "nombre": "América TV",
+         "yt_id": "UC6NVDkuzY2exMOVFw4i9oHw",
         "pais": "cl"
     },
-    "saxum-station": {
-        "nombre": "📻 canal uno",
+    "canal-uno": {
+        "nombre": "canal uno",
         "m3u8_url": "https://mdstrm.com/live-stream-playlist/5a5e1c2568b1910913db5fe2.m3u8",
-        "fuente": "https://canal1.com.co/senal-en-vivo/",
         "pais": "cl"
     },
     "milenio": {
@@ -311,14 +310,14 @@
         "yt_id": "UCUdOoVWuWmgo1wByzcsyKDQ",
         "pais": "cl"
     },
-    "caricaturas": {
-        "nombre": "seamos niños",
-        "yt_id": "UCuVJdjuKwyBfOO8fA-Qrbag",
+    "canal10": {
+        "nombre": "canal 10",
+        "yt_id": "UCUzonpa3XKurQVycdMY70XQ",
         "pais": "cl"
     },
-    "radio-maria-chile": {
-        "nombre": "📻 Radio María Chile",
-        "yt_id": "UClMwb2kCYemWyDIZ2dYttKA",
+    "canal-sur": {
+        "nombre": "canal sur",
+        "yt_id": "UChtLgH7ZJLqLGWJpBnzy9Lg",
         "pais": "cl"
     },
     "sembrador": {
@@ -616,10 +615,9 @@
         "yt_id": "UC6NVDkuzY2exMOVFw4i9oHw",
         "pais": "ar"
     },
-    "net-tv": {
-        "nombre": "Net TV",
-        "iframe_url": "https://rudo.video/live/nettv?volume=0&mute=1",
-        "fuente": "https://www.canalnet.tv/page/senal-en-vivo",
+    "televisa": {
+        "nombre": "televisa puebla",
+        "yt_id": "UC-HNztluSQSffhIWJTL-LUw",
         "pais": "ar"
     },
     "tv-publica-arg": {
