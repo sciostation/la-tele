@@ -124,9 +124,9 @@
         "m3u8_url": "https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8",
         "pais": "cl"
     },
-    "trc-tv": {
-        "nombre": "TRC Television",
-        "m3u8_url": "https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8",
+    "transmedia": {
+        "nombre": "UNaM Transmedia",
+        "m3u8_url": "http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
     "tele-mix": {
