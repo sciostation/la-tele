@@ -104,9 +104,9 @@
         "m3u8_url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8",
         "pais": "cl"
     },
-    "ultra-tv": {
-        "nombre": "Ultra TV Puebla ",
-        "m3u8_url": "https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8",
+    "toon-tubers": {
+        "nombre": " TOON TUBERS",
+        "m3u8_url": "https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8",
         "pais": "cl"
     },
     "canal-5": {
@@ -124,9 +124,9 @@
         "m3u8_url": "https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8",
         "pais": "cl"
     },
-    "cnn-cl": {
-        "nombre": "CNN Chile",
-        "yt_id": "UCpOAcjJNAp0Y0fhznRrXIJQ",
+    "trc-tv": {
+        "nombre": "TRC Television",
+        "m3u8_url": "https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8",
         "pais": "cl"
     },
     "chv-noticias": {
