@@ -115,10 +115,9 @@
         "m3u8_url": "https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8",
         "pais": "cl"
     },
-    "canal-13-2": {
-        "nombre": "Canal 13 2",
-        "iframe_url": "https://13313131.tnvas.repl.co/",
-        "fuente": "https://www.13.cl/en-vivo",
+    "tudn": {
+        "nombre": "TUDN",
+        "m3u8_url": "https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8",
         "pais": "cl"
     },
     "canal-13-3": {
