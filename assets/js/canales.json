@@ -99,9 +99,9 @@
         "m3u8_url": "https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8",
         "pais": "cl"
     },
-    "t13-4": {
-        "nombre": "T13 4",
-        "m3u8_url": "https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8",
+    "cine-accion": {
+        "nombre": "cine accion",
+        "m3u8_url": "https://i.mjh.nz/PlutoTV/5dcb62e63d4d8f0009f36881-alt.m3u8",
         "fuente": "https://www.t13.cl/",
         "pais": "cl"
     },
