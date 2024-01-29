@@ -219,10 +219,9 @@
         "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "adn-5": {
-        "nombre": "📻 ADN 5",
-        "m3u8_url": "https://unlimited2-cl-isp.dps.live/adntv/adntv.smil/playlist.m3u8",
-        "fuente": "http://tv.adnradio.cl/",
+    "natio-tv": {
+        "nombre": "natio tv",
+        "m3u8_url": "https://raw.githubusercontent.com/sciostation/tv/main/natiostationtv.m3u?PlaylistM3UCL",
         "pais": "cl"
     },
     "multimedia": {
