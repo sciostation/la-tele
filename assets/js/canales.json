@@ -110,9 +110,9 @@
         "fuente": "https://sciostation.github.io",
         "pais": "cl"
     },
-    "canal-13": {
-        "nombre": "Canal 13",
-        "yt_id": "UCd4D3LfXC_9MY2zSv_3gMgw",
+    "canal-5": {
+        "nombre": "Canal 5",
+        "m3u8_url": "https://linear-351.frequency.stream/mt/studio/351/hls/master/playlist.m3u8",
         "pais": "cl"
     },
     "canal-13-2": {
