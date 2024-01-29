@@ -219,10 +219,9 @@
         "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "warner-channel": {
+    "warner": {
         "nombre": "Warner Channel",
-        "m3u8_url": "http://187.102.208.108:50001/play/a004/index.m3u8
-",
+        "m3u8_url": "http://187.102.208.108:50001/play/a004/index.m3u8",
         "pais": "cl"
     },
     "multimedia": {
