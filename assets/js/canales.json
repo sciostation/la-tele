@@ -190,13 +190,13 @@
         "fuente": "https://xtrematv.com/?p=1452",
         "pais": "cl"
     },
-    "bbtv-2": {
-        "nombre": "📻 Biobio TV 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/bbtv/bbtv.smil/playlist.m3u8",
-        "fuente": "https://www.biobiochile.cl/biobiotv/",
+    "retrox-tv": {
+        "nombre": "retro x tv",
+        "iframe_url": "https://xtrematv.com/?p=2235",
+        "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "asi": {
+    "asia": {
         "nombre": "Asia",
         "iframe_url": "https://xtrematv.com/?p=1476",
         "fuente": "https://xtrematv.com/",
@@ -255,16 +255,16 @@
         "fuente": "https://xtrematv.com/?p=2202",
         "pais": "cl"
     },
-    "carolina-tv-2": {
-        "nombre": "📻 Carolina TV 2",
-        "m3u8_url": "https://unlimited6-cl.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream2/chunks.m3u8",
-        "fuente": "https://www.carolina.cl/tv/",
+    "multivision-tv": {
+        "nombre": "multivision",
+        "iframe_url": "https://xtrematv.com/?p=1247",
+        "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "carolina-tv-3": {
-        "nombre": "📻 Carolina TV 3",
-        "m3u8_url": "https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8",
-        "fuente": "https://www.carolina.cl/tv/",
+    "poderosa-tv": {
+        "nombre": "poderosa tv",
+        "iframe_url": "https://xtrematv.com/?p=1180",
+        "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
     "kids-tv": {
