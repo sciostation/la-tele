@@ -221,7 +221,7 @@
     },
     "warner": {
         "nombre": "Warner Channel",
-        "m3u8_url": "http://187.102.208.108:50001/play/a004/index.m3u8",
+        "m3u8_url": "http://45.5.117.182:8000/play/a0gn/index.m3u8",
         "pais": "cl"
     },
     "multimedia": {
