@@ -104,10 +104,10 @@
         "m3u8_url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8",
         "pais": "cl"
     },
-    "t13-5": {
+    "cinema-tv": {
         "nombre": "T13 5",
-        "iframe_url": "https://rudo.video/live/t13",
-        "fuente": "https://www.t13.cl/",
+        "iframe_url": "https://sciostation.github.io/StackTV/",
+        "fuente": "https://sciostation.github.io",
         "pais": "cl"
     },
     "canal-13": {
