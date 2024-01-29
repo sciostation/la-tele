@@ -196,10 +196,10 @@
         "fuente": "https://www.biobiochile.cl/biobiotv/",
         "pais": "cl"
     },
-    "adn": {
-        "nombre": "📻 ADN",
-        "iframe_url": "https://rudo.video/live/adntv?volume=0&mute=1",
-        "fuente": "http://tv.adnradio.cl/",
+    "asi": {
+        "nombre": "Asia",
+        "iframe_url": "https://xtrematv.com/?p=1476",
+        "fuente": "https://xtrematv.com/",
         "pais": "cl"
     },
     "adn-2": {
