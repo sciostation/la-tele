@@ -221,7 +221,7 @@
     },
     "natio-tv": {
         "nombre": "natio tv",
-        "m3u8_url": "https://raw.githubusercontent.com/sciostation/tv/main/natiostationtv.m3u?PlaylistM3UCL",
+        "m3u8_url": "https://raw.githubusercontent.com/sciostation/tv/main/natiostationtv.m3u",
         "pais": "cl"
     },
     "multimedia": {
