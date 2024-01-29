@@ -243,16 +243,16 @@
         "fuente": "https://www.universo.cl/",
         "pais": "cl"
     },
-    "radio-ae": {
-        "nombre": "📻 AE Radio DuocUC",
-        "iframe_url": "https://live.grupoz.cl/3e3852b5c1ea7821ab9cdfadbbe735f2?sound=0",
-        "fuente": "https://www.aeradio.cl/",
+    "dreiko-tv": {
+        "nombre": "dreiko tv",
+        "iframe_url": "https://xtrematv.com/?p=2252",
+        "fuente": "https://xtrematv.com/?p=2252",
         "pais": "cl"
     },
-    "carolina-tv": {
-        "nombre": "📻 Carolina TV",
-        "iframe_url": "https://rudo.video/live/carolinatv?volume=0&mute=1",
-        "fuente": "https://www.carolina.cl/tv/",
+    "planeta-tv": {
+        "nombre": "planeta TV",
+        "iframe_url": "https://xtrematv.com/?p=2202",
+        "fuente": "https://xtrematv.com/?p=2202",
         "pais": "cl"
     },
     "carolina-tv-2": {
