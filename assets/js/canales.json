@@ -156,10 +156,10 @@
         "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
         "pais": "cl"
     },
-    "chv-2": {
-        "nombre": "CHV 2",
-        "iframe_url": "https://chvv--hofece7009.repl.co/",
-        "fuente": "https://www.chilevision.cl/senal-online",
+    "cine-comedia": {
+        "nombre": "cine comedia",
+        "iframe_url": "https://xtrematv.com/?p=1464",
+        "fuente": "https://xtrematv.com/?p=1464",
         "pais": "cl"
     },
     "chv-3": {
@@ -225,15 +225,15 @@
         "fuente": "http://tv.adnradio.cl/",
         "pais": "cl"
     },
-    "duna": {
-        "nombre": "📻 Duna",
-        "iframe_url": "https://rudo.video/live/dunatv?volume=0&mute=1",
-        "fuente": "https://www.duna.cl/tv/",
+    "multimedia": {
+        "nombre": "multimedia tv",
+        "iframe_url": "https://xtrematv.com/?p=1496",
+        "fuente": "https://xtrematv.com/?p=1496",
         "pais": "cl"
     },
-    "infinita": {
-        "nombre": "📻 Infinita",
-        "iframe_url": "https://rudo.video/live/infinitatv?volume=0&mute=1",
+    "family": {
+        "nombre": "family",
+        "iframe_url": "https://xtrematv.com/?p=1468",
         "fuente": "http://www.infinita.cl/home/",
         "pais": "cl"
     },
