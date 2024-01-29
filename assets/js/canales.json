@@ -330,10 +330,9 @@
         "yt_id": "UCtc_WjDRwCrZSEq2WEwD7XQ",
         "pais": "cl"
     },
-    "alternativa-fm": {
-        "nombre": "📻 Alternativa FM",
-        "m3u8_url": "https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8",
-        "fuente": "https://www.alternativafm.cl/p/alternativa-tv.html",
+    "radio-hits": {
+        "nombre": "Hits Radio",
+        "yt_id": "UC0f4WJAjYdwl4XYHz-6FhyQ",
         "pais": "cl"
     },
     "prensa-presidencia": {
