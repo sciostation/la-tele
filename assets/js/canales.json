@@ -280,16 +280,14 @@
         "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
         "pais": "cl"
     },
-    "alegria-tv-2": {
-        "nombre": "📻 Alegría TV 2",
-        "m3u8_url": "https://593b04c4c5670.streamlock.net/8192/8192/playlist.m3u8",
-        "fuente": "https://www.alegriafm.cl/",
+    "caracol-ahora": {
+        "nombre": "Caracol Ahora ",
+        "yt_id":  "UC2Xq2PK-got3Rtz9ZJ32hLQ",
         "pais": "cl"
     },
-    "romantica-tv": {
-        "nombre": "📻 Romántica TV",
-        "iframe_url": "https://rudo.video/live/romanticatv?volume=0&mute=1",
-        "fuente": "https://www.romantica.cl/romantica-tv/",
+    "canaria-tv": {
+        "nombre": "canaria",
+        "yt_id": "UCTQrUTmzCWIfG6h4EVCdOCQ",
         "pais": "cl"
     },
     "romantica-tv-2": {
