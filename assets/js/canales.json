@@ -320,10 +320,9 @@
         "yt_id": "UChtLgH7ZJLqLGWJpBnzy9Lg",
         "pais": "cl"
     },
-    "sembrador": {
-        "nombre": "📻 El Sembrador",
-        "m3u8_url": "https://5eff35271151c.streamlock.net:1936/8064/8064/playlist.m3u8",
-        "fuente": "https://www.radioelsembrador.cl/tv/",
+    "radio-vale": {
+        "nombre": " Radio Vale FM 97.5 ",
+        "yt_id": "UC1Oa7gHuqzGHB90FPb0ssPA",
         "pais": "cl"
     },
     "radio-nuble": {
