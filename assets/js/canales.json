@@ -342,7 +342,7 @@
     },
     "xfc-tv": {
         "nombre": "xfc",
-        "yt_id": "https://www.distro.tv/live/xfc-tv/",
+         "iframe_url": "https://www.distro.tv/live/xfc-tv/",
         "pais": "cl"
     },
     "tu-cine": {
@@ -365,11 +365,11 @@
     "voz-sobran": {
         "nombre": "juntos",
          "iframe_url": "https://www.distro.tv/live/juntos/",
-        "pais": "cl"
+         "pais": "cl"
     },
-    "copano": {
-        "nombre": "Nicolas Copano",
-        "yt_id": "UCVTL17ftpqx3lQ_IaGUNgSg",
+    "cgtn": {
+        "nombre": "cgtn",
+          "iframe_url": "https://www.distro.tv/live/cgtn-espanol/",
         "pais": "cl"
     },
     "copano-tw": {
