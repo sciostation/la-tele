@@ -370,7 +370,7 @@
     "cgtn": {
         "nombre": "cgtn",
           "iframe_url": "https://www.distro.tv/live/cgtn-espanol/",
-        "pais": "cl"
+          "pais": "cl"
     },
     "kids-tv": {
         "nombre": "kids tv",
@@ -379,7 +379,7 @@
     },
     "runtime": {
         "nombre": "runtime",
-        " "iframe_url": "https://www.runtime.tv/linear/runtime-espanol-0",
+        "iframe_url": "https://www.runtime.tv/linear/runtime-espanol-0",
         "pais": "cl"
     },
     "holvoet-tv": {
