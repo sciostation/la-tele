@@ -432,9 +432,9 @@
         "iframe_url": "https://www.distro.tv/live/krolus-tv/",
         "pais": "cl"
     },
-    "radio-metal": {
-        "nombre": "radio metal",
-        "iframe_url":  "https://vk.com/video/lives?z=video-12357723_456239136%2Fpl_cat_lives",
+    "arte-reportaje": {
+        "nombre": "arte reportaje",
+        "iframe_url":  "https://sciostation.github.io/premierligue.html",
         "fuente": "https://vk.com/video/",
         "pais": "cl"
     },
