@@ -432,10 +432,10 @@
         "iframe_url": "https://www.distro.tv/live/krolus-tv/",
         "pais": "cl"
     },
-    "canal-9-2": {
-        "nombre": "Canal 9 2",
-        "m3u8_url": "https://unlimited6-cl.dps.live/c9/c9.smil/c9/livestream1/chunks.m3u8",
-        "fuente": "https://www.canal9.cl/en-vivo/",
+    "radio-metal": {
+        "nombre": "radio metal",
+        "iframe_url":  "https://vk.com/video/lives?z=video-12357723_456239136%2Fpl_cat_lives",
+        "fuente": "https://vk.com/video/",
         "pais": "cl"
     },
     "natio-cine": {
