@@ -377,10 +377,9 @@
         "iframe_url": "https://www.distro.tv/live/kids-tv-espanol/",
         "pais": "cl"
     },
-    "puranoticia": {
-        "nombre": "Puranoticia TV",
-        "m3u8_url": "https://pnt.janusmedia.tv/hls/pnt.m3u8",
-        "fuente": "https://puranoticia.pnt.cl/",
+    "runtime": {
+        "nombre": "runtime",
+        " "iframe_url": "https://www.runtime.tv/linear/runtime-espanol-0",
         "pais": "cl"
     },
     "holvoet-tv": {
