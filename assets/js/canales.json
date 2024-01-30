@@ -340,14 +340,14 @@
         "yt_id": "UCD04yL7cANb5RW4LgsQjqOg",
         "pais": "cl"
     },
-    "techno-radio": {
-        "nombre": "Dark Minimal Techno",
-        "yt_id": "UCrcfRtdHb11YJEloTSaOYvw",
+    "xfc-tv": {
+        "nombre": "xfc",
+        "yt_id": "https://www.distro.tv/live/xfc-tv/",
         "pais": "cl"
     },
-    "radio-80s": {
-        "nombre": "Greatest Hits 80s Oldies Music",
-        "yt_id": "UC-ITe1nKavRL6-Sl2aE3LKA",
+    "tu-cine": {
+        "nombre": "tu cine",
+        "iframe_url":  "https://www.distro.tv/live/tu-cine-latam/",
         "pais": "cl"
     },
     "euronews": {
@@ -356,15 +356,15 @@
         "fuente": "https://www.distro.tv/live/euronews-spa/",
         "pais": "cl"
     },
-    "derechofacil-tw": {
-        "nombre": "DerechoFacil",
-        "iframe_url": "https://player.twitch.tv/?channel=derechofacil&parent=alplox.github.io",
+    "bocina-latina": {
+        "nombre": "bocina latina",
+        "iframe_url": "https://www.distro.tv/live/la-bocina-latina/",
         "fuente": "https://www.twitch.tv/derechofacil",
         "pais": "cl"
     },
     "voz-sobran": {
-        "nombre": "La Voz De Los Que Sobran",
-        "yt_id": "UCEnSee5vPeNAm2EFpb_UaRw",
+        "nombre": "juntos",
+         "iframe_url": "https://www.distro.tv/live/juntos/",
         "pais": "cl"
     },
     "copano": {
