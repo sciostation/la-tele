@@ -362,7 +362,7 @@
         "fuente": "https://www.twitch.tv/derechofacil",
         "pais": "cl"
     },
-    "voz-sobran": {
+    "juntos": {
         "nombre": "juntos",
          "iframe_url": "https://www.distro.tv/live/juntos/",
          "pais": "cl"
@@ -377,9 +377,9 @@
         "iframe_url": "https://www.distro.tv/live/kids-tv-espanol/",
         "pais": "cl"
     },
-    "saber-mas": {
-        "nombre": "saber-mas",
-        "iframe_url": "https://www.freetv.com/es/linear/saber-mas",
+    "toonz-kids": {
+        "nombre": "toonz kids",
+        "iframe_url": "https://www.distro.tv/live/toonzkids-atfal/",
         "pais": "cl"
     },
     "holvoet-tv": {
