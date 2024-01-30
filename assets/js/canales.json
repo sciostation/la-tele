@@ -372,10 +372,9 @@
           "iframe_url": "https://www.distro.tv/live/cgtn-espanol/",
         "pais": "cl"
     },
-    "copano-tw": {
-        "nombre": "Nicolas Copano 2",
-        "iframe_url": "https://player.twitch.tv/?channel=copano&parent=alplox.github.io",
-        "fuente": "https://www.twitch.tv/copano",
+    "kids-tv": {
+        "nombre": "kids tv",
+        "iframe_url": "https://www.distro.tv/live/kids-tv-espanol/",
         "pais": "cl"
     },
     "puranoticia": {
