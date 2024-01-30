@@ -413,10 +413,9 @@
         "iframe_url": "https://watch.plex.tv/es/live-tv/channel/billiard-tv",
         "pais": "cl"
     },
-    "arab-tv-2": {
-        "nombre": "ARABTV 2",
-        "m3u8_url": "https://livefocamundo.com:8081/arabtv/playlist.m3u8",
-        "fuente": "https://www.arabtv.cl/",
+    "rcn-tv": {
+        "nombre": "rcn tv",
+        "iframe_url":  "https://www.canalrcn.com/senal-en-vivo/",
         "pais": "cl"
     },
     "arica-tv": {
