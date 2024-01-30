@@ -387,24 +387,19 @@
         "iframe_url": "https://www.distro.tv/live/flou-cine/",
         "pais": "cl"
     },
-    "autopista": {
-        "nombre": "autopista al cielo",
-        "iframe_url": "https://watch.plex.tv/es/live-tv/channel/autopista-al-cielo",
+    "hollywood": {
+        "nombre": "hollywood",
+        "iframe_url": "https://www.distro.tv/live/true-hollywood-network/",
         "pais": "cl"
     },
-    "pitufo-tv": {
-        "nombre": "pitufo tv",
-        "iframe_url":  "https://watch.plex.tv/es/live-tv/channel/pitufo-tv",
-        "pais": "cl"
-    },
-    "the-wu-tang": {
-        "nombre": "the wu tang",
-        "iframe_url": "https://watch.plex.tv/es/live-tv/channel/the-wu-tang-collection-spanish",
+    "cine-ar": {
+        "nombre": "cine ar",
+        "iframe_url":  "https://www.5900.tv/cine-ar-tv-el-canal-del-incaa/",
         "pais": "cl"
     },
     "butaca-tv": {
         "nombre": "Butaca TV ",
-        "iframe_url": "https://watch.plex.tv/es/live-tv/channel/butaca-tv",
+        "iframe_url": "https://www.5900.tv/noticieros-televisa-en-vivo/",
         "pais": "cl"
     },
     "saber-mas": {
@@ -427,10 +422,9 @@
         "iframe_url": "https://www.distro.tv/live/horrorfy/",
         "pais": "cl"
     },
-    "atacama-tv-2": {
-        "nombre": "Atacama TV 2",
-        "m3u8_url": "https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8",
-        "fuente": "http://atacamatelevision.com/",
+    "rt-tv": {
+        "nombre": "rt en español",
+        "iframe_url":  "https://www.5900.tv/rt-en-espanol/",
         "pais": "cl"
     },
     "krolus-tv": {
