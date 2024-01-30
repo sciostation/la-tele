@@ -407,9 +407,9 @@
         "iframe_url": "https://www.distro.tv/live/saber-mas/",
         "pais": "cl"
     },
-    "rcn-tv": {
-        "nombre": "rcn tv",
-        "iframe_url":  "https://www.canalrcn.com/senal-en-vivo/",
+    "natio-tv": {
+        "nombre": "natio station tv",
+        "iframe_url":  "https://sciostation.github.io/natio.tv.html",
         "pais": "cl"
     },
     "amor-discos": {
