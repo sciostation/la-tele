@@ -335,16 +335,14 @@
         "yt_id": "UC0f4WJAjYdwl4XYHz-6FhyQ",
         "pais": "cl"
     },
-    "prensa-presidencia": {
-        "nombre": "Prensa Presidencia",
-        "iframe_url": "https://mdstrm.com/live-stream/5dc17f8944795108a2a52a49?autoplay=true&volume=0",
-        "fuente": "https://prensa.presidencia.cl/streaming.aspx",
+    "rock-radio": {
+        "nombre": "Pop Rock Radio",
+        "yt_id": "UCSx0CKSPK_jUE2REJtgHIPA",
         "pais": "cl"
     },
-    "stgo-tv": {
-        "nombre": "Stgo TV",
-        "iframe_url": "https://stv.janus.cl/front/embed.html",
-        "fuente": "https://www.santiagotelevision.cl/",
+    "70s80s-radio": {
+        "nombre": "Radio 70s 80s Mix",
+        "yt_id": "UCSx0CKSPK_jUE2REJtgHIPA",
         "pais": "cl"
     },
     "tv-mas": {
