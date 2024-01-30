@@ -435,10 +435,9 @@
         "fuente": "http://atacamatelevision.com/",
         "pais": "cl"
     },
-    "canal-9": {
-        "nombre": "Canal 9",
-        "iframe_url": "https://rudo.video/live/c9?volume=0&mute=1",
-        "fuente": "https://www.canal9.cl/en-vivo/",
+    "krolus-tv": {
+        "nombre": "krolus-tv",
+        "iframe_url": "https://www.distro.tv/live/krolus-tv/",
         "pais": "cl"
     },
     "canal-9-2": {
