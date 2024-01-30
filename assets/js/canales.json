@@ -350,10 +350,10 @@
         "yt_id": "UC-ITe1nKavRL6-Sl2aE3LKA",
         "pais": "cl"
     },
-    "tv-mas-2": {
+    "euronews": {
         "nombre": "TV+ 2",
-        "iframe_url": "https://mdstrm.com/live-stream/5c0e8b19e4c87f3f2d3e6a59?autoplay=true&volume=0",
-        "fuente": "https://www.tvmas.tv/",
+        "iframe_url": "https://www.distro.tv/live/euronews-spa/",
+        "fuente": "https://www.distro.tv/live/euronews-spa/",
         "pais": "cl"
     },
     "derechofacil-tw": {
