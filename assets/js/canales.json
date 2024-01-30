@@ -450,10 +450,10 @@
         "fuente": "https://www.arte.tv/es",
         "pais": "cl"
     },
-    "canal-21": {
-        "nombre": "Canal 21",
-        "iframe_url": "https://live.grupoz.cl/8b383d0a9cef5560a1bfbbeaf6ad4a38?sound=0",
-        "fuente": "https://www.canal21tv.cl/wp/en-vivo/",
+    "films-contv": {
+        "nombre": "films contv",
+        "iframe_url": "https://www.contv.com/watch/1051-10146-000/Fists-of-Fury?vod_type=",
+        "fuente": "https://www.contv.com",
         "pais": "cl"
     },
     "canal-21-2": {
