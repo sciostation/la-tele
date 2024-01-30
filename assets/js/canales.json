@@ -408,9 +408,9 @@
         "iframe_url": "https://watch.plex.tv/es/live-tv/channel/butaca-tv",
         "pais": "cl"
     },
-    "billaiard-tv": {
+    "saber-mas": {
         "nombre": "Billiard TV",
-        "iframe_url": "https://watch.plex.tv/es/live-tv/channel/billiard-tv",
+        "iframe_url": "https://www.distro.tv/live/saber-mas/",
         "pais": "cl"
     },
     "rcn-tv": {
@@ -418,10 +418,9 @@
         "iframe_url":  "https://www.canalrcn.com/senal-en-vivo/",
         "pais": "cl"
     },
-    "arica-tv": {
-        "nombre": "Arica TV",
-        "m3u8_url": "https://5eff35271151c.streamlock.net:1936/8002/8002/playlist.m3u8",
-        "fuente": "https://arica.tv/envivo/",
+    "amor-discos": {
+        "nombre": "amor discos",
+        "m3u8_url": "https://canal.mediaserver.com.co/live/canalamordiscos.m3u8",
         "pais": "cl"
     },
     "atacama-tv": {
