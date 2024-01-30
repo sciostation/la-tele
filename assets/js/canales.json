@@ -382,10 +382,9 @@
         "iframe_url": "https://www.distro.tv/live/toonzkids-atfal/",
         "pais": "cl"
     },
-    "holvoet-tv": {
-        "nombre": "Holvoet TV",
-        "iframe_url": "https://rudo.video/live/holvoettv",
-        "fuente": "https://holvoet.cl/en-vivo/",
+    "cine-flou": {
+        "nombre": "cine flou",
+        "iframe_url": "https://www.distro.tv/live/flou-cine/",
         "pais": "cl"
     },
     "autopista": {
