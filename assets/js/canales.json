@@ -377,9 +377,9 @@
         "iframe_url": "https://www.distro.tv/live/kids-tv-espanol/",
         "pais": "cl"
     },
-    "runtime": {
-        "nombre": "runtime",
-        "iframe_url": "https://www.runtime.tv/linear/runtime-espanol-0",
+    "saber-mas": {
+        "nombre": "saber-mas",
+        "iframe_url": "https://www.freetv.com/es/linear/saber-mas",
         "pais": "cl"
     },
     "holvoet-tv": {
@@ -388,34 +388,29 @@
         "fuente": "https://holvoet.cl/en-vivo/",
         "pais": "cl"
     },
-    "holvoet-tv-2": {
-        "nombre": "Holvoet TV 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8",
-        "fuente": "https://holvoet.cl/en-vivo/",
+    "autopista": {
+        "nombre": "autopista al cielo",
+        "iframe_url": "https://watch.plex.tv/es/live-tv/channel/autopista-al-cielo",
         "pais": "cl"
     },
-    "antofagasta-tv": {
-        "nombre": "Antofagasta TV",
-        "m3u8_url": "https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8",
-        "fuente": "https://www.antofagasta.tv/",
+    "pitufo-tv": {
+        "nombre": "pitufo tv",
+        "iframe_url":  "https://watch.plex.tv/es/live-tv/channel/pitufo-tv",
         "pais": "cl"
     },
-    "antofagasta-tv-2": {
-        "nombre": "Antofagasta TV 2",
-        "m3u8_url": "https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8",
-        "fuente": "https://www.antofagasta.tv/",
+    "the-wu-tang": {
+        "nombre": "the wu tang",
+        "iframe_url": "https://watch.plex.tv/es/live-tv/channel/the-wu-tang-collection-spanish",
         "pais": "cl"
     },
-    "antofagasta-tv-3": {
-        "nombre": "Antofagasta TV 3",
-        "m3u8_url": "https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8",
-        "fuente": "https://www.antofagasta.tv/",
+    "butaca-tv": {
+        "nombre": "Butaca TV ",
+        "iframe_url": "https://watch.plex.tv/es/live-tv/channel/butaca-tv",
         "pais": "cl"
     },
-    "arab-tv": {
-        "nombre": "ARABTV",
-        "m3u8_url": "https://livefocamundo.com:8081/arabtv/index.m3u8",
-        "fuente": "https://www.arabtv.cl/",
+    "billaiard-tv": {
+        "nombre": "Billiard TV",
+        "iframe_url": "https://watch.plex.tv/es/live-tv/channel/billiard-tv",
         "pais": "cl"
     },
     "arab-tv-2": {
