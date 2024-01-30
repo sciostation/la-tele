@@ -418,7 +418,7 @@
         "pais": "cl"
     },
     "horrorfy": {
-        "nombre": "horrodfy",
+        "nombre": "horrorfy",
         "iframe_url": "https://www.distro.tv/live/horrorfy/",
         "pais": "cl"
     },
@@ -444,10 +444,10 @@
         "fuente": "https://sciostation.github.io/",
         "pais": "cl"
     },
-    "sportsk": {
-        "nombre": "sportsk",
-         "iframe_url": "https://vk.com/video/lives?z=video-164317737_456239353%2Fpl_cat_lives",
-        "fuente": "https://vk.com/video/",
+    "scio-tv": {
+        "nombre": "scio.tv",
+         "iframe_url": "https://sciostation.github.io/scio.tv.html",
+        "fuente": "https://www.arte.tv/es",
         "pais": "cl"
     },
     "canal-21": {
