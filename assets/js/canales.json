@@ -351,8 +351,8 @@
         "pais": "cl"
     },
     "euronews": {
-        "nombre": "TV+ 2",
-        "iframe_url": "https://www.distro.tv/live/euronews-spa/",
+        "nombre": "euronews",
+        "iframe_url": "https://www.distro.tv/live/euronews-spa",
         "fuente": "https://www.distro.tv/live/euronews-spa/",
         "pais": "cl"
     },
