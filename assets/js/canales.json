@@ -409,7 +409,7 @@
         "pais": "cl"
     },
     "saber-mas": {
-        "nombre": "Billiard TV",
+        "nombre": "saber mas",
         "iframe_url": "https://www.distro.tv/live/saber-mas/",
         "pais": "cl"
     },
@@ -423,10 +423,9 @@
         "m3u8_url": "https://canal.mediaserver.com.co/live/canalamordiscos.m3u8",
         "pais": "cl"
     },
-    "atacama-tv": {
-        "nombre": "Atacama TV",
-        "m3u8_url": "https://v2.tustreaming.cl/atacamatv/index.m3u8",
-        "fuente": "http://atacamatelevision.com/",
+    "horrorfy": {
+        "nombre": "horrodfy",
+        "iframe_url": "https://www.distro.tv/live/horrorfy/",
         "pais": "cl"
     },
     "atacama-tv-2": {
