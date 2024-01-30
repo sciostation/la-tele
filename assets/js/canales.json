@@ -444,10 +444,10 @@
         "fuente": "https://sciostation.github.io/",
         "pais": "cl"
     },
-    "tvu-2": {
-        "nombre": "TVU 2",
-        "m3u8_url": "https://unlimited6-cl.dps.live/tvu/tvu.smil/playlist.m3u8",
-        "fuente": "https://www.tvu.cl/",
+    "sportsk": {
+        "nombre": "sportsk",
+         "iframe_url": "https://vk.com/video/lives?z=video-164317737_456239353%2Fpl_cat_lives",
+        "fuente": "https://vk.com/video/",
         "pais": "cl"
     },
     "canal-21": {
