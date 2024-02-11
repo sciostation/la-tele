@@ -427,9 +427,9 @@
         "iframe_url":  "https://www.5900.tv/rt-en-espanol/",
         "pais": "cl"
     },
-    "UNaM-tv": {
-        "nombre": "UNaM Transmedia",
-        "m3u8_url": "http://192.100.186.53:8090/hls/live.stream.m3u8",
+    "Atv-tv": {
+        "nombre": "ATV Argentina",
+        "m3u8_url": "https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
     "Locomotion": {
