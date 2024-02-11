@@ -429,12 +429,12 @@
     },
     "UNaM-tv": {
         "nombre": "UNaM Transmedia",
-        "m3u8_url": "http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL",
+        "m3u8_url": "http://192.100.186.53:8090/hls/live.stream.m3u8",
         "pais": "cl"
     },
     "Locomotion": {
         "nombre": "Locomotion",
-        "m3u8_url":  "http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL",
+        "m3u8_url":  "http://51.222.85.85:81/hls/loco/index.m3u8",
         "fuente": "https://vk.com/video/",
         "pais": "cl"
     },
