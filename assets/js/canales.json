@@ -456,9 +456,9 @@
         "fuente": "https://www.contv.com",
         "pais": "cl"
     },
-    "canal-21-2": {
-        "nombre": "Canal 21 2",
-        "m3u8_url": "https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8",
+    "BTV": {
+        "nombre": "BTV Digital",
+        "m3u8_url": "https://cageu.bozztv.com/ssh101/ssh101/btvdigital/playlist.m3u8?PlaylistM3UCL",
         "fuente": "https://www.canal21tv.cl/wp/en-vivo/",
         "pais": "cl"
     },
