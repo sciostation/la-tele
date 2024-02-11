@@ -432,9 +432,9 @@
         "m3u8_url": "http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
-    "arte-reportaje": {
-        "nombre": "arte reportaje",
-        "iframe_url":  "https://sciostation.github.io/premierligue.html",
+    "Locomotion": {
+        "nombre": "Locomotion",
+        "m3u8_url":  "http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL",
         "fuente": "https://vk.com/video/",
         "pais": "cl"
     },
