@@ -486,9 +486,9 @@
         "fuente": "https://www.estaciontv.cl/site/",
         "pais": "cl"
     },
-    "pinguino-tv": {
-        "nombre": "Pingüino TV",
-        "iframe_url": "https://elpinguino.com/reproductor/",
+    "Encuentro-tv": {
+        "nombre": "Encuentro",
+        "m3u8_url": "https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8?PlaylistM3UCL",
         "fuente": "https://elpinguino.com/reproductor/",
         "pais": "cl"
     },
