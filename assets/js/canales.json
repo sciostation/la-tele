@@ -492,9 +492,9 @@
         "fuente": "https://elpinguino.com/reproductor/",
         "pais": "cl"
     },
-    "pinguino-tv-2": {
-        "nombre": "Pingüino TV 2",
-        "m3u8_url": "https://streaming.elpinguino.com:5391/live/EP.smil/playlist.m3u8",
+    "Retro-Magico": {
+        "nombre": "Retro Magico",
+        "m3u8_url": "https://ssh101.bozztv.com/ssh101/retromagicochnl/playlist.m3u8?PlaylistM3UCL",
         "fuente": "https://elpinguino.com/reproductor/",
         "pais": "cl"
     },
