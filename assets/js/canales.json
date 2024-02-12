@@ -468,9 +468,9 @@
         "fuente": "https://nublevision.cl/",
         "pais": "cl"
     },
-    "canal-34": {
-        "nombre": "Canal 34 San Juan",
-        "m3u8_url": "http://streamyes.alsolnet.com/canal34hd/live/playlist.m3u8?PlaylistM3UCL",
+    "canal-7": {
+        "nombre": "Canal 7 Jujuy",
+        "m3u8_url": "https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8?PlaylistM3UCL",
         "fuente": "https://canalrtv.cl/",
         "pais": "cl"
     },
