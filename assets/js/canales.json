@@ -462,9 +462,9 @@
         "fuente": "https://www.canal21tv.cl/wp/en-vivo/",
         "pais": "cl"
     },
-    "nublevision": {
-        "nombre": "Ñublevision",
-        "m3u8_url": "https://cdn.oneplaychile.cl:1936/regionales/nublevision.stream/playlist.m3u8",
+    "rio-negro": {
+        "nombre": "Canal 10 Rio Negro",
+        "m3u8_url": "https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL",
         "fuente": "https://nublevision.cl/",
         "pais": "cl"
     },
