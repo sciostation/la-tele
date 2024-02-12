@@ -474,9 +474,9 @@
         "fuente": "https://canalrtv.cl/",
         "pais": "cl"
     },
-    "estaciontv": {
-        "nombre": "Estacióntv",
-        "m3u8_url": "https://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8",
+    "canal-9": {
+        "nombre": "Canal 9 Litoral",
+        "m3u8_url": "https://stream.arcast.live/ahora/ahora/playlist.m3u8?PlaylistM3UCL",
         "fuente": "https://www.estaciontv.cl/site/",
         "pais": "cl"
     },
