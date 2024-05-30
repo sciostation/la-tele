@@ -91,7 +91,8 @@
     },
     "chavo-tv": {
         "nombre": "el chavo del 8",
-        "m3u8_url": "https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8",
+        "iframe_url": "https://sciostation.github.io/channel/chavo.html",
+        "fuente": "https://sciostation.github.io/la-tele/",
         "pais": "cl"
     },
     "cartoonnetwork": {
