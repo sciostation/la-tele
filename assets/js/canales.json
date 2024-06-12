@@ -454,7 +454,7 @@
     },
     "natio station tv": {
         "nombre": "natio station tv",
-        "m3u8_url": "https://raw.githubusercontent.com/sciostation/tv/main/natiotv.m3u8?PlaylistM3UCL",
+        "m3u8_url": "https://raw.githubusercontent.com/sciostation/tv/main/natiotv.m3u8",
         "pais": "cl"
     },
     "BTV": {
