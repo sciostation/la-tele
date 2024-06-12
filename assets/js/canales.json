@@ -452,10 +452,9 @@
         "fuente": "https://www.arte.tv/es",
         "pais": "cl"
     },
-    "films-contv": {
-        "nombre": "films contv",
-        "iframe_url": "https://www.contv.com/watch/1051-10146-000/Fists-of-Fury?vod_type=",
-        "fuente": "https://www.contv.com",
+    "natio station tv": {
+        "nombre": "natio station tv",
+        "m3u8_url": "https://raw.githubusercontent.com/sciostation/tv/main/natiotv.m3u8?PlaylistM3UCL",
         "pais": "cl"
     },
     "BTV": {
