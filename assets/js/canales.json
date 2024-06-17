@@ -247,9 +247,9 @@
         "fuente": "https://xtrematv.com/?p=2252",
         "pais": "cl"
     },
-    "planeta-tv": {
+    "euronews": {
         "nombre": "planeta TV",
-        "iframe_url": "https://xtrematv.com/?p=2202",
+        "iframe_url": "https://www.5900.tv/euronews-en-espanol-en-vivo/",
         "fuente": "https://xtrematv.com/?p=2202",
         "pais": "cl"
     },
