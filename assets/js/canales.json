@@ -220,8 +220,8 @@
         "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "nacion": {
-        "nombre": "la nacion",
+    "france-24": {
+        "nombre": "france 24",
         "iframe_url": "https://www.5900.tv/france-24-espanol-en-vivo/",
         "pais": "cl"
     },
@@ -236,9 +236,9 @@
         "iframe_url": "https://xtrematv.com/?p=1468",
         "pais": "cl"
     },
-    "canal-9-tv": {
-        "nombre": "TV Sur Canal 9",
-        "m3u8_url": "http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8?PlaylistM3UCL",
+    "dw": {
+        "nombre": "dw",
+        "iframe_url": "https://www.5900.tv/dw-en-vivo/",
         "pais": "cl"
     },
     "dreiko-tv": {
