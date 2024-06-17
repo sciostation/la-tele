@@ -278,12 +278,12 @@
     },
     "tn": {
         "nombre": "TN EN VIVO",
-        "yt_id": "UCj6PcyLvpnIRT_2W_mwa9Aw",
+        "iframe_url": "https://xtrematv.com/?p=1491",
         "pais": "cl"
     },
-    "caracol-ahora": {
-        "nombre": "Caracol Ahora ",
-        "yt_id":  "UC2Xq2PK-got3Rtz9ZJ32hLQ",
+    "99-series": {
+        "nombre": "99 series ",
+        "iframe_url": "https://xtrematv.com/?p=2228",
         "pais": "cl"
     },
     "canaria-tv": {
@@ -291,9 +291,9 @@
         "yt_id": "UCTQrUTmzCWIfG6h4EVCdOCQ",
         "pais": "cl"
     },
-    "america": {
-        "nombre": "América TV",
-         "yt_id": "UC6NVDkuzY2exMOVFw4i9oHw",
+    "acs-series": {
+        "nombre": "acs series retro",
+        "iframe_url": "https://xtrematv.com/?p=2378",
         "pais": "cl"
     },
     "canal-uno": {
