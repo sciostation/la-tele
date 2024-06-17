@@ -271,9 +271,9 @@
         "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "tvn-14": {
-        "nombre": "TVN 14",
-        "m3u8_url": "https://5fd8fec96951d.streamlock.net:8443/TVN/CH14.stream_720p/playlist.m3u8?PlaylistM3UCL",
+    "cine-latino": {
+        "nombre": "cine latino",
+       "iframe_url": "https://xtrematv.com/?p=1491",
         "pais": "cl"
     },
     "tn": {
