@@ -106,9 +106,9 @@
         "m3u8_url": "https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8",
         "pais": "cl"
     },
-    "rio-cuarto": {
-        "nombre": " canal 13 rio cuarto",
-        "iframe_url": "https://www.5900.tv/canal-13-rio-cuarto/",
+    "c5n": {
+        "nombre": "c5n",
+        "iframe_url": "https://www.5900.tv/c5n-en-vivo/",
          "pais": "cl"
     },
     "canal-5": {
