@@ -247,9 +247,9 @@
         "fuente": "https://xtrematv.com/?p=2252",
         "pais": "cl"
     },
-    "euronews": {
-        "nombre": "euronews",
-        "iframe_url": "https://www.5900.tv/euronews-en-espanol-en-vivo/",
+    "diti": {
+        "nombre": "diti",
+        "iframe_url": "https://www.5900.tv/diti-tv/",
         "fuente": "https://xtrematv.com/?p=2202",
         "pais": "cl"
     },
