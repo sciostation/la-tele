@@ -152,10 +152,10 @@
         "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "chv": {
-        "nombre": "CHV",
-        "yt_id": "UC8EdTmyUaFIfZvVttJ9lgIA",
-        "pais": "cl"
+    "malaga-noticias": {
+        "nombre": "malaga noticias",
+        "iframe_url": "https://www.5900.tv/malaga-24-hs-tv-noticias/",
+         "pais": "cl"
     },
     "cine-comedia": {
         "nombre": "cine comedia",
