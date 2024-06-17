@@ -259,10 +259,10 @@
         "fuente": "https://xtrematv.com",
         "pais": "cl"
     },
-    "poderosa-tv": {
-        "nombre": "poderosa tv",
-        "iframe_url": "https://xtrematv.com/?p=1180",
-        "fuente": "https://xtrematv.com",
+    "peppa-pig": {
+        "nombre": "peppa ping",
+        "iframe_url": "https://www.5900.tv/peppa-pig-en-espanol/",
+        "fuente": "https://www.5900.tv/peppa-pig-en-espanol/",
         "pais": "cl"
     },
     "kids-tv": {
