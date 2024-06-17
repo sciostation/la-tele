@@ -116,10 +116,10 @@
         "iframe_url": "https://www.5900.tv/canal-10-de-cordoba/",
         "pais": "cl"
     },
-    "tudn": {
-        "nombre": "TUDN",
-        "m3u8_url": "https://linear-356.frequency.stream/mt/studio/356/hls/master/playlist.m3u8",
-        "pais": "cl"
+    "buenos-aires": {
+        "nombre": "canal cuidad buenos aires",
+        "iframe_url": "https://www.5900.tv/canal-de-la-ciudad-buenos-aires-en-vivo/",
+         "pais": "cl"
     },
     "nicoya-tv": {
         "nombre": "Nicoya TV",
