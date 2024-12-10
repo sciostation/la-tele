@@ -1,12 +1,12 @@
 {
     "playlists": [
         {
-            "name": "Lista 1",
-            "url": "https://example.com/lista1.m3u"
+            "name": "natio station tv",
+            "url": "https://raw.githubusercontent.com/sciostation/tv/refs/heads/main/natiostationtv.m3u"
         },
         {
-            "name": "Lista 2",
-            "url": "https://example.com/lista2.m3u"
+            "name": "legedarium tv",
+            "url": "https://raw.githubusercontent.com/sciostation/tv/refs/heads/main/legendarium.m3u"
         }
     ]
 }
