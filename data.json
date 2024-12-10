@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Video 1",
+        "url": "https://example.com/video1.mp4"
+    },
+    {
+        "title": "Video 2",
+        "url": "https://example.com/video2.mp4"
+    }
+]
