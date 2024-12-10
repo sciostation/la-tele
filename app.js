@@ -1,13 +1,14 @@
-let videoList = []; // Lista completa de videos
+let videoList = []; // Lista de videos
 let currentVideoIndex = 0; // Índice del video actual
 
-// Cargar el archivo JSON con las listas
+// Función para cargar las listas desde el JSON
 async function loadPlaylists() {
     try {
         const response = await fetch('playlists.json');
         if (!response.ok) {
             throw new Error('No se pudo cargar el archivo JSON.');
         }
+
         const data = await response.json();
         await loadRandomPlaylist(data.playlists);
     } catch (error) {
@@ -15,7 +16,7 @@ async function loadPlaylists() {
     }
 }
 
-// Seleccionar aleatoriamente una lista M3U y cargarla
+// Función para seleccionar aleatoriamente una lista y cargarla
 async function loadRandomPlaylist(playlists) {
     const randomIndex = Math.floor(Math.random() * playlists.length);
     const playlistUrl = playlists[randomIndex].url;
@@ -40,13 +41,13 @@ async function loadRandomPlaylist(playlists) {
     }
 }
 
-// Parsear el contenido de una lista M3U
+// Función para procesar una lista M3U
 function parseM3U(content) {
     const lines = content.split('\n');
     return lines.filter(line => line.trim() && !line.startsWith('#'));
 }
 
-// Reproducir el siguiente video de la lista
+// Función para reproducir el siguiente video
 function playNextVideo() {
     if (videoList.length === 0) {
         console.warn('No hay videos disponibles para reproducir.');
@@ -57,12 +58,12 @@ function playNextVideo() {
     videoPlayer.src = videoList[currentVideoIndex];
     videoPlayer.play();
 
-    // Incrementar el índice para el próximo video
+    // Incrementar el índice del video para el próximo
     currentVideoIndex = (currentVideoIndex + 1) % videoList.length;
 
-    // Configurar el evento para reproducir automáticamente el próximo video
+    // Reproducir automáticamente el siguiente video al finalizar el actual
     videoPlayer.onended = playNextVideo;
 }
 
-// Iniciar la carga de las listas al abrir la página
+// Iniciar la carga de listas al abrir la página
 loadPlaylists();
