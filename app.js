@@ -1,25 +1,61 @@
-document.getElementById('loadButton').addEventListener('click', loadM3U);
-document.getElementById('randomButton').addEventListener('click', playRandomVideo);
+const playlistContainer = document.getElementById('playlistContainer');
+const randomButton = document.getElementById('randomButton');
+const videoPlayer = document.getElementById('video');
+const videoListContainer = document.getElementById('videoList');
 
 let videoList = [];
 
-function loadM3U() {
-    const input = document.getElementById('m3uInput');
-    const file = input.files[0];
-    if (!file) {
-        alert('Por favor selecciona un archivo M3U.');
-        return;
+// Cargar las listas M3U del archivo JSON
+async function loadPlaylists() {
+    try {
+        const response = await fetch('playlists.json');
+        if (!response.ok) {
+            throw new Error('No se pudo cargar el archivo JSON.');
+        }
+        const data = await response.json();
+        displayPlaylists(data.playlists);
+    } catch (error) {
+        console.error('Error al cargar las listas:', error);
+        alert('No se pudieron cargar las listas. Revisa el archivo JSON.');
     }
-
-    const reader = new FileReader();
-    reader.onload = (event) => {
-        const content = event.target.result;
-        videoList = parseM3U(content);
-        displayVideoList();
-    };
-    reader.readAsText(file);
 }
 
+// Mostrar las listas en la interfaz
+function displayPlaylists(playlists) {
+    playlistContainer.innerHTML = '';
+    playlists.forEach((playlist, index) => {
+        const button = document.createElement('button');
+        button.textContent = playlist.name;
+        button.addEventListener('click', () => loadM3U(playlist.url));
+        playlistContainer.appendChild(button);
+    });
+}
+
+// Cargar y procesar una lista M3U desde una URL
+async function loadM3U(url) {
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Error al cargar la lista M3U: ${response.statusText}`);
+        }
+
+        const content = await response.text();
+        videoList = parseM3U(content);
+
+        if (videoList.length === 0) {
+            alert('No se encontraron videos en la lista.');
+            return;
+        }
+
+        randomButton.disabled = false;
+        displayVideoList();
+    } catch (error) {
+        console.error('Error al cargar la lista M3U:', error);
+        alert('Hubo un problema al cargar la lista M3U. Verifica la URL.');
+    }
+}
+
+// Parsear el contenido de la lista M3U
 function parseM3U(content) {
     const lines = content.split('\n');
     const videos = [];
@@ -31,23 +67,34 @@ function parseM3U(content) {
     return videos;
 }
 
+// Mostrar la lista de videos
 function displayVideoList() {
-    const listDiv = document.getElementById('videoList');
-    listDiv.innerHTML = '';
+    videoListContainer.innerHTML = '';
     videoList.forEach((video, index) => {
         const div = document.createElement('div');
         div.textContent = `Video ${index + 1}: ${video}`;
-        listDiv.appendChild(div);
+        div.addEventListener('click', () => playVideo(video));
+        div.style.cursor = 'pointer';
+        div.style.marginBottom = '0.5rem';
+        videoListContainer.appendChild(div);
     });
 }
 
-function playRandomVideo() {
+// Reproducir un video aleatorio
+randomButton.addEventListener('click', () => {
     if (videoList.length === 0) {
         alert('No hay videos cargados.');
         return;
     }
     const randomIndex = Math.floor(Math.random() * videoList.length);
-    const videoPlayer = document.getElementById('video');
-    videoPlayer.src = videoList[randomIndex];
+    playVideo(videoList[randomIndex]);
+});
+
+// Reproducir un video seleccionado
+function playVideo(url) {
+    videoPlayer.src = url;
     videoPlayer.play();
 }
+
+// Cargar las listas al inicio
+loadPlaylists();
