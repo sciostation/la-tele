@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Tele</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>La Tele</h1>
+    </header>
+    <main>
+        <input type="file" id="m3uInput" accept=".m3u" />
+        <button id="loadButton">Cargar Lista</button>
+        <button id="randomButton">Video Aleatorio</button>
+        <div id="videoPlayer">
+            <video id="video" controls></video>
+        </div>
+        <div id="videoList"></div>
+    </main>
+    <script src="app.js"></script>
+</body>
+</html>
