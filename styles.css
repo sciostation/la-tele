@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #3b5998;
+    color: white;
+    padding: 1rem 0;
+}
+
+main {
+    padding: 2rem;
+}
+
+#videoPlayer {
+    margin-top: 1rem;
+}
+
+#video {
+    width: 80%;
+    height: auto;
+    border: 2px solid #333;
+    border-radius: 8px;
+}
+
+#videoList {
+    margin-top: 2rem;
+    text-align: left;
+    max-width: 80%;
+    margin: 0 auto;
+}
